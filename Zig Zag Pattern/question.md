@@ -2,7 +2,7 @@
 
 Your program should take a string 'n' and integer 'm' as input.
 
-Form a matrix of size m*m with asterisks '*\'
+Form a matrix of size m\*m with asterisks '\*'
 
 Conditions to modify the matrix :
 
@@ -21,7 +21,6 @@ Sample Input and Output :-
 Input 1 :
 
 qwerty
-
 6
 
 Output 1 :
