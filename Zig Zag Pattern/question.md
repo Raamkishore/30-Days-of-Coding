@@ -20,10 +20,17 @@ Sample Input and Output :-
 
 Input 1 :
 
-qwerty
-6
+![input](https://user-images.githubusercontent.com/23584394/86082763-2ec99b00-bab6-11ea-8733-f5686cbbb002.PNG)
 
 Output 1 :
 
 ![output](https://user-images.githubusercontent.com/23584394/86082592-c24e9c00-bab5-11ea-91f7-5cb14cf99497.PNG)
+
+Input 2 :
+
+![input1](https://user-images.githubusercontent.com/23584394/86082967-a7c8f280-bab6-11ea-9e14-bb2ff92f64ff.PNG)
+
+Output 2 :
+
+![output1](https://user-images.githubusercontent.com/23584394/86082973-a992b600-bab6-11ea-9e84-f3e1a2ca84c0.PNG)
 
