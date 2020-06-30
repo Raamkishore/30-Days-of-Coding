@@ -20,4 +20,13 @@ Sample Input and Output :-
 
 Input 1 :
 
+qwerty
+6
+
 Output 1 :
+
+****q
+we***
+**rty
+####*
+#####
