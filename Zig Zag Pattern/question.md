@@ -25,8 +25,5 @@ qwerty
 
 Output 1 :
 
-*\**\*q
-we***
-*\*\rty
-#\#\#\#*\
-#\#\#\#\#
+![output](https://user-images.githubusercontent.com/23584394/86082592-c24e9c00-bab5-11ea-91f7-5cb14cf99497.PNG)
+
