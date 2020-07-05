@@ -1,0 +1,1 @@
+# https://practice.geeksforgeeks.org/problems/occurences-of-2-as-a-digit/1
