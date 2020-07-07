@@ -1,6 +1,4 @@
-n = int(input())
-
-n = str(n)
+n = input()
 
 temp = '9'
 res = 0
